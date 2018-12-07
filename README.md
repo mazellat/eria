@@ -1,2 +1,2 @@
-# eria
+# ERIA
 RFID payment solution
